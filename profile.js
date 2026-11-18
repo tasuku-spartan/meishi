@@ -28,7 +28,7 @@ window.PROFILE = {
   sns: {
     sansan: "https://ap.sansan.com/v/vc/kaxf6xypy4junkcitiuiw5d4l4/",
     instagram: "",
-    facebook: "https://m.me/61595367621103",
+    facebook: "https://www.facebook.com/profile.php?id=61595367621103",
     x: "",
     linkedin: "",
     whatsapp: "",           // 例: "https://wa.me/819012345678"
